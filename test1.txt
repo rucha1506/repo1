@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 641E-1166
+
+ Directory of C:\Users\T430\Desktop\My Project
+
+2021/03/12  17:45    <DIR>          .
+2021/03/12  17:45    <DIR>          ..
+2021/03/12  17:45                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  219ÿ291ÿ484ÿ160 bytes free
